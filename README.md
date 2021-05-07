@@ -46,7 +46,7 @@ I love to do work and develop application with Python. Currently pursuing Comput
 - 🤔 <b>Exploring:</b> Software Design Pattern, Deep Learning
 - ⚗️ <b>Experimenting on:</b> Improving the structure of my code
 - 💬 <b>Ask me about:</b> Anything about undergrad thesis and Python. And Star Wars too 😄
-- 📫 <b> Reach me here:</b> Mail me at  <a href="mailto:pknandi130@gmail.com" target="_blank"> pknandi130@gmail.com</a>
+- 📫 <b> Reach me here:</b> Mail me anytime at  <a href="mailto:pknandi130@gmail.com" target="_blank"> pknandi130@gmail.com</a>
 
 ### My Stacks
 
