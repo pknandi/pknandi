@@ -42,7 +42,7 @@ I love to do work and develop application with Python. Currently pursuing Comput
 ### Things you should know
 
 - 🔭 <b>Currently working on:</b> Undergraduate Thesis on Networking
-- 🌱 <b>Getting better at:</b> Python , Problem solving, Reading research paper  
+- 🌱 <b>Getting better at:</b> Python, Problem solving, Reading research paper  
 - 🤔 <b>Exploring:</b> Software Design Pattern, Deep Learning
 - ⚗️ <b>Experimenting on:</b> Improving the structure of my code
 - 💬 <b>Ask me about:</b> Anything about undergrad thesis and Python. And Star Wars too 😄
