@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! 👋 This is Pranjal. Nice to meet you</a>!</h2>
 <h3 align="center">INFP-T</h3>
 <p align="center">
-   <a href="mailto:pknandi130@gmail.com" target="_blank"> 
+   <!--<a href="mailto:pknandi130@gmail.com" target="_blank"> 
      <img alt="GMail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="40" height="30" >
   </a>
   <a href="https://www.linkedin.com/in/pranjal-kumar-nandi-24347b153/" target="_blank">
@@ -12,6 +12,19 @@
   </a>
   <a href="https://pknandi130.medium.com/" target="_blank">
     <img alt="Medium" src="https://miro.medium.com/max/1620/1*psYl0y9DUzZWtHzFJLIvTw.png" width="30" height="30" >
+  </a>
+   -->
+   <a href="mailto:pknandi130@gmail.com" target="_blank"> 
+     <img alt="GMail" src="https://img.shields.io/badge/-GMAIL-red?&style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/pranjal-kumar-nandi-24347b153/" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+  <a href="https://www.goodreads.com/user/show/68893621-pranjal" target="_blank">
+    <img alt="Goodreads" src="https://img.shields.io/badge/-GOODREADS-white?&style=for-the-badge&logo=Goodreads&logoColor=black">
+  </a>
+  <a href="https://pknandi130.medium.com/" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-white?&style=for-the-badge&logo=medium&logoColor=black">
   </a>
 </p>
 
