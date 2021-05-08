@@ -63,6 +63,46 @@ I love to do work and develop application with Python. Currently pursuing Comput
 
 ### My Stacks
 
+###### Languages
+
+<p>
+   <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white" />
+   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" />
+   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=java&logoColor=white" />
+   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white" />
+   <img alt="Octave" src="https://img.shields.io/badge/Octave-0790C0.svg?&style=flat-square&logo=octave&logoColor=white" />
+</p>
+
+###### Frameworks/Libraries
+<p>
+   <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white" />
+   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white" />
+   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white" />
+   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=Numpy&logoColor=white" />
+   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=Pandas&logoColor=white" />
+   <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=Tensorflow&logoColor=white" />
+</p>
+
+###### Database/Misc
+<p>
+   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white" />
+   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white" />
+   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white" />
+   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=Numpy&logoColor=white" />
+   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=Pandas&logoColor=white" />
+   <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=Tensorflow&logoColor=white" />
+</p>
+
+
+###### Tools
+
+<p>
+   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white" />
+   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-5C2D91.svg?&style=flat-square&logo=Visual-studio-code&logoColor=white" />
+   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=Android-studio&logoColor=white" />
+</p>
+
+
 ```json
 {
   "languages": ["C++", "Python", "Java", "Matlab", "Javascript"],
