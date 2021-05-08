@@ -86,11 +86,11 @@ I love to do work and develop application with Python. Currently pursuing Comput
 ###### Database/Misc
 <p>
    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white" />
-   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white" />
-   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white" />
-   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=Numpy&logoColor=white" />
-   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=Pandas&logoColor=white" />
-   <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=Tensorflow&logoColor=white" />
+   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?&style=flat-square&logo=PostgreSQL&logoColor=white" />
+   <img alt="Oracle 11g" src="https://img.shields.io/badge/Oracle%2011g-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white" />
+   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=white" />
+   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?&style=flat-square&logo=Arduino&logoColor=white" />
+   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white" />
 </p>
 
 
@@ -102,7 +102,7 @@ I love to do work and develop application with Python. Currently pursuing Comput
    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=Android-studio&logoColor=white" />
 </p>
 
-
+<!--
 ```json
 {
   "languages": ["C++", "Python", "Java", "Matlab", "Javascript"],
@@ -116,5 +116,6 @@ I love to do work and develop application with Python. Currently pursuing Comput
   "tools": ["VS Code","Android Studio", "Pycharm"],
 }
 ```
+-->
 
 ## Happy coding!
