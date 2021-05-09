@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! 👋 This is Pranjal. Nice to meet you</a>!</h2>
+<h2 align="center">Hello there! 👋 This is Pranjal. Nice to meet you!</h2>
 <h3 align="center">INFP-T</h3>
 <p align="center">
    <!--<a href="mailto:pknandi130@gmail.com" target="_blank"> 
@@ -118,6 +118,6 @@ I love to do work and develop application with Python. Currently pursuing Comput
 ```
 -->
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pknandi&hide_border=false&theme=gotham" width="66%"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pknandi&hide_border=false&theme=gotham" width="65%"/>
  
-## Happy coding!
+<h2 align="center">Happy Coding!</h2>
