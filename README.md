@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 <p>
    <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white" />
    <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white" />
+   <img alt="C Sharp" src="https://img.shields.io/badge/C%20Sharp-239120.svg?&style=flat-square&logo=C-sharp&logoColor=white" />
    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" />
    <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=java&logoColor=white" />
    <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white" />
