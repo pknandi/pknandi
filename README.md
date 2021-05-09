@@ -53,6 +53,7 @@ I love to do work and develop application with Python. Currently pursuing Comput
 ###### Languages
 
 <p>
+   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white" />
    <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white" />
    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" />
    <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=java&logoColor=white" />
@@ -105,6 +106,9 @@ I love to do work and develop application with Python. Currently pursuing Comput
 ```
 -->
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pknandi&hide_border=false&theme=gotham" width="55%"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pknandi&hide_border=false&theme=react&background=0d1117" width="55%" />
+   
+   <img src="https://activity-graph.herokuapp.com/graph?username=pknandi&theme=react-dark" width="100%"/>
+
  
 <h2 align="center">Happy Coding!</h2>
