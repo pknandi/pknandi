@@ -15,6 +15,8 @@
   </a>
 </p>
 
+I love to do work and develop application with Python. Currently pursuing Computer Science and Engineering degree at University of Dhaka. I'm an INFP-T. Outside study or work, I love to experiment on writing fictions mainly poetry and short stories. I do my best to learn and explore new things on regular basis.
+
 <p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=pknandi&count_private=true&show_icons=true&hide=issues&theme=gotham" width="52.5%" />
@@ -37,7 +39,7 @@ Here are some ideas to get you started:
 -->
 
 
-I love to do work and develop application with Python. Currently pursuing Computer Science and Engineering degree at University of Dhaka. I'm an INFP-T. Outside study or work, I love to experiment on writing fictions mainly poetry and short stories. I do my best to learn and explore new things on regular basis.
+
 
 ### Things you should know
 
