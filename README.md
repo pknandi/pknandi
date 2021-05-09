@@ -28,10 +28,10 @@
   </a>
 </p>
 
-<p align="center">
+<p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pknandi&count_private=true&show_icons=true&hide=issues&theme=tokyonight" width="66%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=pknandi&count_private=true&show_icons=true&hide=issues&theme=gotham" width="52.5%" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknandi&hide=MATLAB&langs_count=8&layout=compact&theme=gotham" />
 
 <!--
 **pknandi/pknandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
