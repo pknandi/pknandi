@@ -31,7 +31,7 @@
 <p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=pknandi&count_private=true&show_icons=true&hide=issues&theme=gotham" width="52.5%" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknandi&hide=MATLAB&langs_count=8&layout=compact&theme=gotham" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknandi&hide=MATLAB&langs_count=8&layout=compact&theme=gotham" width="45%" />
 
 <!--
 **pknandi/pknandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -117,5 +117,7 @@ I love to do work and develop application with Python. Currently pursuing Comput
 }
 ```
 -->
-
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pknandi&hide_border=false&theme=gotham" width="66%"/>
+ 
 ## Happy coding!
