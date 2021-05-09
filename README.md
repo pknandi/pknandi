@@ -1,19 +1,6 @@
 <h2 align="center">Hello there! 👋 This is Pranjal. Nice to meet you!</h2>
 <h3 align="center">INFP-T</h3>
 <p align="center">
-   <!--<a href="mailto:pknandi130@gmail.com" target="_blank"> 
-     <img alt="GMail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="40" height="30" >
-  </a>
-  <a href="https://www.linkedin.com/in/pranjal-kumar-nandi-24347b153/" target="_blank">
-    <img alt="Linkedin" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620335616~hmac=7e0dcf55ab142e526517307556e32e77" width="30" height="30" >
-  </a>
-  <a href="https://www.goodreads.com/user/show/68893621-pranjal" target="_blank">
-    <img alt="Goodreads" src="http://d.gr-assets.com/misc/1454549160-1454549160_goodreads_misc.png" width="30" height="30" >
-  </a>
-  <a href="https://pknandi130.medium.com/" target="_blank">
-    <img alt="Medium" src="https://miro.medium.com/max/1620/1*psYl0y9DUzZWtHzFJLIvTw.png" width="30" height="30" >
-  </a>
-   -->
    <a href="mailto:pknandi130@gmail.com" target="_blank"> 
      <img alt="GMail" src="https://img.shields.io/badge/-GMAIL-red?&style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
@@ -118,6 +105,6 @@ I love to do work and develop application with Python. Currently pursuing Comput
 ```
 -->
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pknandi&hide_border=false&theme=gotham" width="65%"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pknandi&hide_border=false&theme=gotham" width="55%"/>
  
 <h2 align="center">Happy Coding!</h2>
