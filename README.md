@@ -66,7 +66,7 @@ Here are some ideas to get you started:
    <img alt="C#" src="https://img.shields.io/badge/C%23%20-239120.svg?&style=flat-square&logo=C-sharp&logoColor=white" />
    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" />
    <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=java&logoColor=white" />
-   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white" />
+   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
    <img alt="Octave" src="https://img.shields.io/badge/Octave-0790C0.svg?&style=flat-square&logo=octave&logoColor=white" />
 </p>
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <p>
    <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white" />
    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white" />
-   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white" />
+   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=black" />
    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=Numpy&logoColor=white" />
    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=Pandas&logoColor=white" />
    <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=Tensorflow&logoColor=white" />
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white" />
    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?&style=flat-square&logo=PostgreSQL&logoColor=white" />
    <img alt="Oracle 11g" src="https://img.shields.io/badge/Oracle%2011g-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white" />
-   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=white" />
+   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=black" />
    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?&style=flat-square&logo=Arduino&logoColor=white" />
    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white" />
 </p>
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 <p>
    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white" />
    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-5C2D91.svg?&style=flat-square&logo=Visual-studio-code&logoColor=white" />
-   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=Android-studio&logoColor=white" />
+   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3D1184.svg?&style=flat-square&logo=Android-studio&logoColor=white" />
 </p>
 
 <!--
