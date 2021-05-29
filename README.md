@@ -5,7 +5,6 @@
 </h1>
 
 <h2 align="center">Hello there! 👋 This is Pranjal. Nice to meet you!</h2>
-<h3 align="center">INFP-T</h3>
 <p align="center">
    <a href="mailto:pknandi130@gmail.com" target="_blank"> 
      <img alt="GMail" src="https://img.shields.io/badge/-GMAIL-red?&style=for-the-badge&logo=Gmail&logoColor=white">
