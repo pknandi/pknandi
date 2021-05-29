@@ -20,7 +20,7 @@
   </a>
 </p>
 
-I love to do work and develop application with Python. Currently pursuing Computer Science and Engineering degree at University of Dhaka. I'm an INFP-T. Outside study or work, I love to experiment on writing fictions mainly poetry and short stories. I do my best to learn and explore new things on regular basis.
+I love to do work and develop application with Python. Currently pursuing Computer Science and Engineering degree at University of Dhaka. I'm an blend of INFP-T and INTP-T. Outside study or work, I love to experiment on writing fictions mainly poetry and short stories. I do my best to learn and explore new things on regular basis.
 
 <p>
 
