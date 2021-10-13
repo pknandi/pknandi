@@ -20,7 +20,7 @@
   </a>
 </p>
 
-I love to do work and develop application with Python. Currently pursuing Computer Science and Engineering degree at University of Dhaka. I'm a blend of INFP-T and INTP-T. Outside study or work, I love to experiment on writing fictions mainly poetry and short stories. I do my best to learn and explore new things on regular basis.
+I love to do work and develop application with Python. Currently working on Deep Learning and Computer Vision for a project. I'm a blend of INFP-T and INTP-T. Outside study or work, I love to experiment on writing fictions mainly poetry and short stories. I do my best to learn and explore new things on regular basis.
 
 <p>
 
@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> Undergraduate Thesis on Networking
-- 🌱 <b>Getting better at:</b> Python, Problem solving, Reading research paper  
-- 🤔 <b>Exploring:</b> Software Design Pattern, Deep Learning
-- ⚗️ <b>Experimenting on:</b> Improving the structure of my code
+- 🔭 <b>Currently working on:</b> Deep Learning and Computer Vision
+- 🌱 <b>Getting better at:</b> Python, Machine Learning, Reading research paper  
+- 🤔 <b>Exploring:</b> Various framework and algorithm of Deep Learning
+- ⚗️ <b>Experimenting on:</b> Improving my knowledge and intuition on data
 - 💬 <b>Ask me about:</b> Anything about undergrad thesis and Python. And Star Wars too 😄
 - 📫 <b> Reach me here:</b> Mail me anytime at  <a href="mailto:pknandi130@gmail.com" target="_blank"> pknandi130@gmail.com</a>
 
@@ -72,11 +72,13 @@ Here are some ideas to get you started:
 ###### Frameworks/Libraries
 <p>
    <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white" />
-   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white" />
-   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=black" />
+<!--    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white" /> -->
+<!--    <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=black" /> -->
    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=Numpy&logoColor=white" />
    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=Pandas&logoColor=white" />
    <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=Tensorflow&logoColor=white" />
+  <img alt = "PyTorch" src = "https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" />
+  <img alt = "Scikit-Learn" src = "https://img.shields.io/badge/SkLearn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white" />
 </p>
 
 ###### Database/Misc
