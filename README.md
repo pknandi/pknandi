@@ -20,7 +20,7 @@
   </a>
 </p>
 
-I love to do work and develop application with Python. Currently working on Deep Learning and Computer Vision for a project. I'm a blend of INFP-T and INTP-T. Outside study or work, I love to experiment on writing fictions mainly poetry and short stories. I do my best to learn and explore new things on regular basis.
+I love to do work and develop application with Python. Currently working on Deep Learning and Computer Vision. Outside study or work, I love to experiment on writing fictions mainly poetry and short stories. I do my best to learn and explore new things on regular basis.
 
 <p>
 
@@ -79,6 +79,7 @@ Here are some ideas to get you started:
    <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=Tensorflow&logoColor=white" />
   <img alt = "PyTorch" src = "https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" />
   <img alt = "Scikit-Learn" src = "https://img.shields.io/badge/SkLearn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt = "Keras" src = "https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=keras&logoColor=white" />
 </p>
 
 ###### Database/Misc
