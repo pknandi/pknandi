@@ -20,7 +20,7 @@
   </a>
 </p>
 
-I love to do work and develop application with Python. Currently working on Deep Learning and Computer Vision. Outside study or work, I love to experiment on writing fictions mainly poetry and short stories. I do my best to learn and explore new things on regular basis.
+I love to do work and develop application with Python. Currently working on Computer Vision which requires Nvidia Jetson and Deepstream SDK. Outside study or work, I love to experiment on writing fictions mainly poetry and short stories. I do my best to learn and explore new things on regular basis.
 
 <p>
 
@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 - 🌱 <b>Getting better at:</b> Python, Machine Learning, Reading research paper  
 - 🤔 <b>Exploring:</b> Various framework and algorithm of Deep Learning
 - ⚗️ <b>Experimenting on:</b> Improving my knowledge and intuition on data
-- 💬 <b>Ask me about:</b> Anything about undergrad thesis and Python. And Star Wars too 😄
-- 📫 <b> Reach me here:</b> Mail me anytime at  <a href="mailto:pknandi130@gmail.com" target="_blank"> pknandi130@gmail.com</a>
+- 💬 <b>Ask me about:</b> Stuffs about undergrad thesis work and computer vision. And Star Wars too 😄
+- 📫 <b>Reach me here:</b> Mail me anytime at  <a href="mailto:pknandi130@gmail.com" target="_blank"> pknandi130@gmail.com</a>
 
 ### My Stacks
 
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 ###### Database/Misc
 <p>
    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white" />
-   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?&style=flat-square&logo=PostgreSQL&logoColor=white" />
+<!--    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?&style=flat-square&logo=PostgreSQL&logoColor=white" /> -->
    <img alt="Oracle 11g" src="https://img.shields.io/badge/Oracle%2011g-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white" />
    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=black" />
    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?&style=flat-square&logo=Arduino&logoColor=white" />
