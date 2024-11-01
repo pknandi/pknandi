@@ -70,26 +70,31 @@ Here are some ideas to get you started:
 
 ###### Frameworks/Libraries
 <p>
-   <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white" />
 <!--    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white" /> -->
-<!--    <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=black" /> -->
-   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=Numpy&logoColor=white" />
-   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=Pandas&logoColor=white" />
-   <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=Tensorflow&logoColor=white" />
-  <img alt = "PyTorch" src = "https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" />
-  <img alt = "Scikit-Learn" src = "https://img.shields.io/badge/SkLearn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img alt = "Keras" src = "https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=keras&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" />
+  <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=Tensorflow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=keras&logoColor=white" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/SkLearn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=black" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=Pandas&logoColor=white" />
+  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=Numpy&logoColor=white" />
 </p>
 
 ###### Database/Misc
 <p>
-   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white" />
-<!--    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?&style=flat-square&logo=PostgreSQL&logoColor=white" /> -->
-   <img alt="Oracle 11g" src="https://img.shields.io/badge/Oracle%2011g-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white" />
-   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=black" />
-   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?&style=flat-square&logo=Arduino&logoColor=white" />
-   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white" />
+   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?&style=flat-square&logo=PostgreSQL&logoColor=white" />
+   <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white" />
+   <img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+   <img alt="RabbiMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
    <img alt="LaTex" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white" />
+   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?&style=flat-square&logo=Arduino&logoColor=white" />
+   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=black" />
+   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white" />
+  
 </p>
 
 
