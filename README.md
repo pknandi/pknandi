@@ -20,9 +20,7 @@
   </a>
 </p>
 
-I love to do work and develop application with Python. Currently working on Computer Vision which requires Nvidia Jetson and Deepstream SDK. Outside study or work, I love to experiment on writing fictions mainly poetry and short stories. I do my best to learn and explore new things on regular basis.
-
-<p>
+I am passionate to do research and work on interesting problems in the field of AI and Machine Learning. Currently, I work as a Machine Learning Engineer, focusing on developing products that leverage Computer Vision technologies, including Nvidia Jetson and the Deepstream SDK. In addition to my professional work, I conduct research in the field of network and secutiy specially on the interction of IoT and Machine Learning. Outside study or work, I love to experiment on writing fictions mainly poetry and short stories. I strive to learn and explore new things regularly.
 
 <p align="center">
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=pknandi&count_private=true&show_icons=true&hide=issues&theme=gotham&show=reviews,prs_merged" width="55%" />
@@ -49,11 +47,11 @@ Here are some ideas to get you started:
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> IoT, Deep Learning and Computer Vision
+- 🔭 <b>Currently working on:</b> IoT, Deep Learning and Computer Vision (CV)
 - 🌱 <b>Getting better at:</b> Python, Machine Learning (ML), Deep Learning(DL), Networking, Research methodology
-- 🤔 <b>Exploring:</b> How to leverage AI and ML techniques in IoT and ubiquitous networks to make them more robust and secured. 
-- ⚗️ <b>Experimenting on:</b> Improving my knowledge on math. Also learning various frameworks and algorithms of DL and Computer Vision.
-- 💬 <b>Ask me about:</b> Introduction to undergrad thesis work and how to approach a research problem. And One Piece too. 😄
+- 🤔 <b>Exploring:</b> Ways to leverage AI and ML techniques in IoT and ubiquitous networks to enhance robustness and security 
+- ⚗️ <b>Experimenting on:</b> Deepening my math knowledge, as well as learning various frameworks and algorithms in DL and vision
+- 💬 <b>Ask me about:</b> Approaching thesis work, tackling research problems, various DL and CV algorithms and models—and One Piece too!😄
 - 📫 <b>Reach me here:</b> Mail me anytime at  <a href="mailto:pknandi130@gmail.com" target="_blank"> pknandi130@gmail.com</a>
 
 ### My Stacks
