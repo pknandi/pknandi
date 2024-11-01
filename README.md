@@ -24,8 +24,9 @@ I love to do work and develop application with Python. Currently working on Comp
 
 <p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pknandi&count_private=true&show_icons=true&hide=issues&theme=gotham" width="52.5%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknandi&hide=MATLAB&langs_count=8&layout=compact&theme=gotham" width="45%" />
+<p align="center">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=pknandi&count_private=true&show_icons=true&hide=issues&theme=gotham&show=reviews,prs_merged" width="55%" />
+</p>
 
 <!--
 **pknandi/pknandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,11 +49,11 @@ Here are some ideas to get you started:
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> Deep Learning and Computer Vision
-- 🌱 <b>Getting better at:</b> Python, Machine Learning, Reading research paper  
-- 🤔 <b>Exploring:</b> Various framework and algorithm of Deep Learning
-- ⚗️ <b>Experimenting on:</b> Improving my knowledge and intuition on data
-- 💬 <b>Ask me about:</b> Stuffs about undergrad thesis work and computer vision. And Star Wars too 😄
+- 🔭 <b>Currently working on:</b> IoT, Deep Learning and Computer Vision
+- 🌱 <b>Getting better at:</b> Python, Machine Learning (ML), Deep Learning(DL), Networking, Research methodology
+- 🤔 <b>Exploring:</b> How to leverage AI and ML techniques in IoT and ubiquitous networks to make them more robust and secured. 
+- ⚗️ <b>Experimenting on:</b> Improving my knowledge on math. Also learning various frameworks and algorithms of DL and Computer Vision.
+- 💬 <b>Ask me about:</b> Introduction to undergrad thesis work and how to approach a research problem. And One Piece too. 😄
 - 📫 <b>Reach me here:</b> Mail me anytime at  <a href="mailto:pknandi130@gmail.com" target="_blank"> pknandi130@gmail.com</a>
 
 ### My Stacks
@@ -118,9 +119,16 @@ Here are some ideas to get you started:
 ```
 -->
 <p align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknandi&hide=MATLAB&langs_count=8&layout=compact&theme=gotham" width="55%" />  
+</p>
+
+
+---
+
+<p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pknandi&hide_border=false&theme=react&background=0d1117" width="55%" />
-   
-   <img src="https://activity-graph.herokuapp.com/graph?username=pknandi&theme=react-dark" width="100%"/>
+   <!--
+   <img src="https://activity-graph.herokuapp.com/graph?username=pknandi&theme=react-dark" width="100%"/> -->
 
  
 <h2 align="center">Happy Coding!</h2>
