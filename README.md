@@ -23,7 +23,7 @@
 I am passionate to do research and work on interesting problems in the field of AI and Machine Learning. Currently, I work as a Machine Learning Engineer, focusing on developing products that leverage Computer Vision technologies, including Nvidia Jetson and the Deepstream SDK. In addition to my professional work, I conduct research in the field of network and secutiy specially on the interction of IoT and Machine Learning. Outside study or work, I love to experiment on writing fictions mainly poetry and short stories. I strive to learn and explore new things regularly.
 
 <p align="center">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=pknandi&count_private=true&show_icons=true&hide=issues&theme=gotham&show=reviews,prs_merged" width="55%" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=pknandi&count_private=true&show_icons=true&hide=issues&theme=codeSTACKr&show=reviews,prs_merged&card_width=500&rank_icon=github&include_all_commits=true" />
 </p>
 
 <!--
@@ -122,16 +122,18 @@ Here are some ideas to get you started:
 ```
 -->
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknandi&hide=MATLAB&langs_count=8&layout=compact&theme=gotham" width="55%" />  
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknandi&hide=MATLAB&langs_count=8&layout=donut-vertical&theme=codeSTACKr&card_width=330" />  
 </p>
+
 
 
 ---
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pknandi&hide_border=false&theme=react&background=0d1117" width="55%" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pknandi&hide_border=false&theme=codeSTACKr&background=0d1117" width="60%" />
    <!--
    <img src="https://activity-graph.herokuapp.com/graph?username=pknandi&theme=react-dark" width="100%"/> -->
+</p>
 
  
 <h2 align="center">Happy Coding!</h2>
