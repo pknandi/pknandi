@@ -131,9 +131,19 @@ Here are some ideas to get you started:
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pknandi&hide_border=false&theme=codeSTACKr&background=0d1117" width="60%" />
-   <!--
-   <img src="https://activity-graph.herokuapp.com/graph?username=pknandi&theme=react-dark" width="100%"/> -->
 </p>
 
  
 <h2 align="center">Happy Coding!</h2>
+
+### Featured Repos
+<p align="center">
+  <a href="https://github.com/pknandi/Decoded">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=pknandi&repo=Decoded&theme=codeSTACKr" />
+  </a>
+  <a href="https://github.com/pknandi/Astronomical-Object-Database-Oracle-11g">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=pknandi&repo=Astronomical-Object-Database-Oracle-11g&theme=codeSTACKr" />
+  </a>
+</p>
+
+
