@@ -20,6 +20,8 @@
   </a>
 </p>
 
+<!--&nbsp;![](https://komarev.com/ghpvc/?username=pknandi&color=brightgreen)-->
+
 I am passionate to do research and work on interesting problems in the field of AI and Machine Learning and their applications. Currently, I am working as a Machine Learning Engineer, focusing on developing products that leverage Computer Vision technologies, including Nvidia Jetson and the Deepstream SDK. In addition to my professional work, I conduct research in the field of networking and security specially on the interction of IoT and Machine Learning. Outside study or work, I love to experiment on writing fictions mainly poetry and short stories. I strive to learn and explore new things regularly.
 
 <p align="center">
